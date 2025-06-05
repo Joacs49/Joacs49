@@ -43,41 +43,6 @@ Me interesa especializarme en DevOps y automatización de procesos, con conocimi
 
 ---
 
-### 👨‍💻 Experiencia Profesional
-
-**Infinitum Solutions** – *Desarrollador de Software*  
-_Abr 2025 – Presente_  
-- Documentación técnica y diagramas UML.  
-- Modelado de bases de datos escalables.  
-- Mejora de arquitectura y seguridad del sistema.
-
-**Neon HouseLed SAC** – *Desarrollador Web*  
-_Dic 2024 – Abr 2025_  
-- Análisis de requerimientos funcionales y diseño de base de datos.  
-- Optimización y despliegue de aplicaciones web con Hostinger.
-
-**DevDatep Consulting** – *Desarrollador Backend*  
-_Sep 2024 – Dic 2024_  
-- Mantenimiento y pruebas de endpoints en Laravel.  
-- Coordinación ágil (Scrum) y estrategias de depuración para estabilidad.
-
----
-
-### 🎓 Educación
-
-**Ingeniería de Software**  
-Universidad Tecnológica del Perú – UTP  
-📅 Mar 2021 – Presente
-
----
-
-### 🌍 Idiomas
-
-- Español: Nativo  
-- Inglés: Intermedio (B1)
-
----
-
 ### 🤝 Contacto
 
 📫 gaelmzl49@gmail.com  

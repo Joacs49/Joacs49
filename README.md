@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Joaquin Muñoz
+# 👋 ¡Hola Soy Joaquin Muñoz!
 
 ### 💻 Desarrollador Backend | Estudiante de Ingeniería de Software | Apasionado por la automatización
 

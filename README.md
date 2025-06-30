@@ -37,6 +37,7 @@ Actualmente, colaboro en proyectos donde combino buenas prácticas de desarrollo
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=white)
 
 **Gestión y Modelado**
 

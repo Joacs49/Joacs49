@@ -64,7 +64,7 @@ Actualmente, colaboro en proyectos donde combino buenas prácticas de desarrollo
 ## 📚 Actualmente aprendiendo
 
 - 🐳 Docker y CI/CD
-- 🧪 Testing Automatizado con Laravel
+- 🧪 Testing Automatizado
 - ⚙️ Prácticas DevOps
 - 🖥️ Optimización de bases de datos y rendimiento
 

@@ -1,6 +1,6 @@
 # 👋 ¡Hola Soy Joaquin Muñoz! 
 
-### 💻 Desarrollador Backend | Estudiante de Ingeniería de Software
+### 💻 Desarrollador Backend | Estudiante de Ingeniería de Software 
 
 Soy estudiante de Ingeniería de Software (9.º ciclo) con experiencia en desarrollo web orientado backend con Laravel y Spring Boot, modelado de bases de datos, despliegue de aplicaciones web, documentación técnica e interesado por la automatización. Me encanta trabajar en equipo usando metodologías ágiles como Scrum y estoy desarrollando mi perfil en DevOps con herramientas como Docker y Linux.
 
